@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "888020990681",
+    "project_id": "android-game-177cb",
+    "storage_bucket": "android-game-177cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888020990681:android:ff6ed420e44bc699015cc8",
+        "android_client_info": {
+          "package_name": "com.example.android_game"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2lwozUORq2NkNe7sSn5S2AlNV3AiNArg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888020990681:android:f691763b62434631015cc8",
+        "android_client_info": {
+          "package_name": "com.example.english_match"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2lwozUORq2NkNe7sSn5S2AlNV3AiNArg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
